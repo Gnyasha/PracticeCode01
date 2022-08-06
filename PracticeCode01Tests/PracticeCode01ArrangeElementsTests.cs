@@ -2,7 +2,7 @@ using NUnit.Framework;
 
 namespace PracticeCode01Tests
 {
-    public class Tests
+    public class PracticeCode01ArrangeElementsTests
     {
         private PracticeCode01.ArrangeElements? ArrangeElements;
 
